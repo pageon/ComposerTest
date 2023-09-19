@@ -1,0 +1,17 @@
+{
+    "name": "pageon/composer-test",
+    "description": "Test composer install module",
+    "type": "fork-cms-module",
+    "autoload": {
+        "psr-4": {
+            "ForkCMS\\Modules\\ComposerTest": "ComposerTest/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jelmer Prins",
+            "email": "jelmer@pageon.be"
+        }
+    ],
+    "require": {}
+}
